@@ -5,6 +5,7 @@
 <link rel="manifest" href="manifest.webmanifest">
 <meta name="theme-color" content="#f5f1e8" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#16161a" media="(prefers-color-scheme: dark)">
+<meta name="color-scheme" content="light dark">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-title" content="Bibbia">
@@ -14,12 +15,13 @@
 <body>
 <main id="home">
  <h1>Libri della Bibbia</h1>
- <div class="seg" id="seg" role="tablist">
+ <div class="seg" id="seg">
   <button data-m="bib">Biblico</button><button data-m="cro">Eventi</button><button data-m="wri">Scrittura</button>
  </div>
  <input id="q" type="search" placeholder="Cerca un libro" aria-label="Cerca un libro">
- <div id="grid"></div>
+ <div class="grid" id="grid"></div>
+ <section id="noref" hidden><h2>LIBRI SENZA UN RIFERIMENTO TEMPORALE</h2><div class="grid" id="grid2"></div></section>
 </main>
 <article id="detail" hidden></article>
-<script src="books.js"></script><script src="app.js"></script>
+<script type="module" src="app.js"></script>
 </body></html>

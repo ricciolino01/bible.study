@@ -1,0 +1,353 @@
+[
+{
+"n": "Genesi",
+"w": "Mosè",
+"p": "Deserto",
+"y": -1513,
+"yt": "1513 a.C.",
+"s": -1000000,
+"tt": "\"In principio\" a 1657 a.C."
+},
+{
+"n": "Esodo",
+"w": "Mosè",
+"p": "Deserto",
+"y": -1512,
+"yt": "1512 a.C.",
+"s": -1657,
+"tt": "1657–1512 a.C."
+},
+{
+"n": "Levitico",
+"w": "Mosè",
+"p": "Deserto",
+"y": -1512,
+"yt": "1512 a.C.",
+"s": -1512,
+"tt": "1 mese (1512 a.C.)"
+},
+{
+"n": "Numeri",
+"w": "Mosè",
+"p": "Deserto e pianure di Moab",
+"y": -1473,
+"yt": "1473 a.C.",
+"s": -1512,
+"tt": "1512–1473 a.C."
+},
+{
+"n": "Deuteronomio",
+"w": "Mosè",
+"p": "Pianure di Moab",
+"y": -1473,
+"yt": "1473 a.C.",
+"s": -1473,
+"tt": "2 mesi (1473 a.C.)"
+},
+{
+"n": "Giosuè",
+"w": "Giosuè",
+"p": "Canaan",
+"y": -1450,
+"yt": "c. 1450 a.C.",
+"s": -1473,
+"tt": "1473–c. 1450 a.C."
+},
+{
+"n": "Giudici",
+"w": "Samuele",
+"p": "Israele",
+"y": -1100,
+"yt": "c. 1100 a.C.",
+"s": -1450,
+"tt": "c. 1450–c. 1120 a.C."
+},
+{
+"n": "Rut",
+"w": "Samuele",
+"p": "Israele",
+"y": -1090,
+"yt": "c. 1090 a.C.",
+"s": null,
+"tt": "11 anni dei Giudici"
+},
+{
+"n": "1 Samuele",
+"w": "Samuele; Gad; Natan",
+"p": "Israele",
+"y": -1078,
+"yt": "c. 1078 a.C.",
+"s": -1180,
+"tt": "c. 1180–1078 a.C."
+},
+{
+"n": "2 Samuele",
+"w": "Gad; Natan",
+"p": "Israele",
+"y": -1040,
+"yt": "c. 1040 a.C.",
+"s": -1077,
+"tt": "1077–c. 1040 a.C."
+},
+{
+"n": "1 Re",
+"w": "Geremia",
+"p": "Gerusalemme e Giuda",
+"y": -580,
+"yt": "580 a.C.",
+"s": -1027,
+"tt": "c. 1027–910 a.C."
+},
+{
+"n": "2 Re",
+"w": "Geremia",
+"p": "Egitto",
+"y": -580,
+"yt": "580 a.C.",
+"s": -920,
+"tt": "c. 920–580 a.C."
+},
+{
+"n": "1 Cronache",
+"w": "Esdra",
+"p": "Gerusalemme (?)",
+"y": -460,
+"yt": "c. 460 a.C.",
+"s": -1077,
+"tt": "Dopo 1 Cronache 9:44: 1077–1037 a.C."
+},
+{
+"n": "2 Cronache",
+"w": "Esdra",
+"p": "Gerusalemme (?)",
+"y": -460,
+"yt": "c. 460 a.C.",
+"s": -1037,
+"tt": "1037–537 a.C."
+},
+{
+"n": "Esdra",
+"w": "Esdra",
+"p": "Gerusalemme",
+"y": -460,
+"yt": "c. 460 a.C.",
+"s": -537,
+"tt": "537–c. 467 a.C."
+},
+{
+"n": "Neemia",
+"w": "Neemia",
+"p": "Gerusalemme",
+"y": -443,
+"yt": "dopo il 443 a.C.",
+"s": -456,
+"tt": "456–dopo il 443 a.C."
+},
+{
+"n": "Ester",
+"w": "Mardocheo",
+"p": "Susa, Elam",
+"y": -475,
+"yt": "c. 475 a.C.",
+"s": -493,
+"tt": "493–c. 475 a.C."
+},
+{
+"n": "Giobbe",
+"w": "Mosè",
+"p": "Deserto",
+"y": -1473,
+"yt": "c. 1473 a.C.",
+"s": -1657,
+"tt": "Oltre 140 anni tra il 1657 e il 1473 a.C."
+},
+{
+"n": "Salmi",
+"w": "Davide e altri",
+"p": "—",
+"y": -460,
+"yt": "c. 460 a.C.",
+"s": null,
+"tt": "—"
+},
+{
+"n": "Proverbi",
+"w": "Salomone; Agur; Lemuel",
+"p": "Gerusalemme",
+"y": -717,
+"yt": "c. 717 a.C.",
+"s": null,
+"tt": "—"
+},
+{
+"n": "Ecclesiaste",
+"w": "Salomone",
+"p": "Gerusalemme",
+"y": -1000,
+"yt": "prima del 1000 a.C.",
+"s": null,
+"tt": "—"
+},
+{
+"n": "Cantico dei Cantici",
+"w": "Salomone",
+"p": "Gerusalemme",
+"y": -1020,
+"yt": "c. 1020 a.C.",
+"s": null,
+"tt": "—"
+},
+{
+"n": "Isaia",
+"w": "Isaia",
+"p": "Gerusalemme",
+"y": -732,
+"yt": "dopo il 732 a.C.",
+"s": -778,
+"tt": "c. 778–dopo il 732 a.C."
+},
+{
+"n": "Geremia",
+"w": "Geremia",
+"p": "Giuda ed Egitto",
+"y": -580,
+"yt": "580 a.C.",
+"s": -647,
+"tt": "647–580 a.C."
+},
+{
+"n": "Lamentazioni",
+"w": "Geremia",
+"p": "Presso Gerusalemme",
+"y": -607,
+"yt": "607 a.C.",
+"s": null,
+"tt": "—"
+},
+{
+"n": "Ezechiele",
+"w": "Ezechiele",
+"p": "Babilonia",
+"y": -591,
+"yt": "c. 591 a.C.",
+"s": -613,
+"tt": "613–c. 591 a.C."
+},
+{
+"n": "Daniele",
+"w": "Daniele",
+"p": "Babilonia",
+"y": -536,
+"yt": "c. 536 a.C.",
+"s": -618,
+"tt": "618–c. 536 a.C."
+},
+{
+"n": "Osea",
+"w": "Osea",
+"p": "Samaria (Distretto)",
+"y": -745,
+"yt": "dopo il 745 a.C.",
+"s": -804,
+"tt": "prima del 804–dopo il 745 a.C."
+},
+{
+"n": "Gioele",
+"w": "Gioele",
+"p": "Giuda",
+"y": -820,
+"yt": "c. 820 a.C. (?)",
+"s": null,
+"tt": "—"
+},
+{
+"n": "Amos",
+"w": "Amos",
+"p": "Giuda",
+"y": -804,
+"yt": "c. 804 a.C.",
+"s": null,
+"tt": "—"
+},
+{
+"n": "Abdia",
+"w": "Abdia",
+"p": "—",
+"y": -607,
+"yt": "c. 607 a.C.",
+"s": null,
+"tt": "—"
+},
+{
+"n": "Giona",
+"w": "Giona",
+"p": "—",
+"y": -844,
+"yt": "c. 844 a.C.",
+"s": null,
+"tt": "—"
+},
+{
+"n": "Michea",
+"w": "Michea",
+"p": "Giuda",
+"y": -717,
+"yt": "prima del 717 a.C.",
+"s": -777,
+"tt": "c. 777–717 a.C."
+},
+{
+"n": "Naum",
+"w": "Naum",
+"p": "Giuda",
+"y": -632,
+"yt": "prima del 632 a.C.",
+"s": null,
+"tt": "—"
+},
+{
+"n": "Abacuc",
+"w": "Abacuc",
+"p": "Giuda",
+"y": -628,
+"yt": "c. 628 a.C. (?)",
+"s": null,
+"tt": "—"
+},
+{
+"n": "Sofonia",
+"w": "Sofonia",
+"p": "Giuda",
+"y": -648,
+"yt": "prima del 648 a.C.",
+"s": null,
+"tt": "—"
+},
+{
+"n": "Aggeo",
+"w": "Aggeo",
+"p": "Gerusalemme ricostruita",
+"y": -520,
+"yt": "520 a.C.",
+"s": -520,
+"tt": "112 giorni (520 a.C.)"
+},
+{
+"n": "Zaccaria",
+"w": "Zaccaria",
+"p": "Gerusalemme ricostruita",
+"y": -518,
+"yt": "518 a.C.",
+"s": -520,
+"tt": "520–518 a.C."
+},
+{
+"n": "Malachia",
+"w": "Malachia",
+"p": "Gerusalemme ricostruita",
+"y": -443,
+"yt": "dopo il 443 a.C.",
+"s": null,
+"tt": "—"
+}
+]
