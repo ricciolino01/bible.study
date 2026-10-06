@@ -41,3 +41,4 @@ $('#seg').onclick=e=>{const m=e.target.dataset.m;if(!m)return;mode=m;localStorag
 $('#q').oninput=layout;
 addEventListener('hashchange',route);layout();route();
 if('serviceWorker'in navigator)navigator.serviceWorker.register('sw.js');
+window.caches?.keys().then(k=>{$('#ver').textContent='Versione app: '+(k.find(x=>x.startsWith('bibbia-'))||'')});

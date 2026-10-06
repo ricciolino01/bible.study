@@ -19,3 +19,4 @@ dl{margin:0}dt{font-size:13px;color:var(--mut);margin-top:16px}dd{margin:2px 0 0
 .nav button:disabled{opacity:.35}
 button:focus-visible,input:focus-visible{outline:2px solid var(--acc);outline-offset:2px}
 ::view-transition-group(*){animation-duration:.4s}
+#ver{color:var(--mut);font-size:12px;text-align:center;margin:20px 0 0}
