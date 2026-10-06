@@ -20,3 +20,11 @@ dl{margin:0}dt{font-size:13px;color:var(--mut);margin-top:16px}dd{margin:2px 0 0
 button:focus-visible,input:focus-visible{outline:2px solid var(--acc);outline-offset:2px}
 ::view-transition-group(*){animation-duration:.4s}
 #ver{color:var(--mut);font-size:12px;text-align:center;margin:20px 0 0}
+/* Colori per categoria: --h = tonalità; senza categoria la casella è neutra (.n) */
+.card,#legend i{--cc:light-dark(hsl(var(--h,0) 55% 40%),hsl(var(--h,0) 60% 68%))}
+.card.n{--cc:var(--mut)}
+.card{border-top-color:var(--cc);background:color-mix(in srgb,var(--cc) 15%,var(--card))}
+#legend{margin:0 0 12px;font-size:12px;color:var(--mut)}
+#legend div{display:flex;flex-wrap:wrap;align-items:center;gap:2px 12px;margin-bottom:3px}
+#legend b{color:var(--fg);font-weight:600}
+#legend i{display:inline-block;width:10px;height:10px;border-radius:3px;background:var(--cc);margin-right:5px}
