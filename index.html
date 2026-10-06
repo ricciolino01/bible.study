@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="it"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Libri della Bibbia</title>
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" content="#f5f1e8" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#16161a" media="(prefers-color-scheme: dark)">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Bibbia">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<link rel="apple-touch-icon" href="icons/icon-180.png">
+<link rel="stylesheet" href="style.css"></head>
+<body>
+<main id="home">
+ <h1>Libri della Bibbia</h1>
+ <div class="seg" id="seg" role="tablist">
+  <button data-m="bib">Biblico</button><button data-m="cro">Eventi</button><button data-m="wri">Scrittura</button>
+ </div>
+ <input id="q" type="search" placeholder="Cerca un libro" aria-label="Cerca un libro">
+ <div id="grid"></div>
+</main>
+<article id="detail" hidden></article>
+<script src="books.js"></script><script src="app.js"></script>
+</body></html>
