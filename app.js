@@ -59,3 +59,4 @@ $('#q').oninput=layout;
 addEventListener('hashchange',route);layout();route();
 if('serviceWorker'in navigator)navigator.serviceWorker.register('sw.js');
 window.caches?.keys().then(k=>{$('#ver').textContent='Versione app: '+(k.find(x=>x.startsWith('bibbia-'))||'')});
+window.caches?.keys().then(k=>{$('#ver').textContent='RicciManuel ')});
